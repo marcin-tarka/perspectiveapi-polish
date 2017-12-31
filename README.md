@@ -19,7 +19,7 @@ Repository cointains scripts used for automatic translation and Jupyter notebook
 
 ## Results
 
-ROC AUC metric was used to examine both Polish and English classifier. Result for Polish was 0.916, while for English 0.958.
+ROC AUC metric was used to examine both Polish and English classifier. Result for Polish was 0.916, while for English 0.948. Ngrams from 1 to 3 were used.
 
 ## Bibliography
 
