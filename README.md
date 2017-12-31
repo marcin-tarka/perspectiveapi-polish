@@ -22,6 +22,9 @@ Repository cointains scripts used for automatic translation and Jupyter notebook
 ROC AUC metric was used to examine both Polish and English classifier. Result for Polish was 0.916, while for English 0.958.
 
 ## Bibliography
+
 [1] Ellery Wulczyn, Nithum Thain, Lucas Dixon "Ex Machina: Personal Attacks Seen at Scale" https://arxiv.org/abs/1610.08914
+
 [2] http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
 [3] https://www.perspectiveapi.com
